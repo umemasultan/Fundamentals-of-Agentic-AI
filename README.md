@@ -7,7 +7,6 @@ Frontend Developer | AI Enthusiast | Learner of Agentic AI
 
 ---
 ## 🧩 Agent Workflow
-![Agent Workflow](workflow.png)
 
 ❓ Agentic AI–Q & A
 
@@ -51,5 +50,6 @@ Runner: Executes agent synchronously and returns output
 
 Thank you for visiting this project.
 — Umema Sultan
+
 
 
