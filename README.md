@@ -1,18 +1,16 @@
 # Fundamentals of Agentic AI
 _A beginner-friendly guide to the fundamentals of Agentic AI._
-
 ---
-
 ### 👩‍💻 Author
 **Umema Sultan**  
 Frontend Developer | AI Enthusiast | Learner of Agentic AI  
 
 ---
-
 ## 🧩 Agent Workflow
 ![Agent Workflow](workflow.png)
 
-❓ Agentic AI – Professional Q&A
+❓ Agentic AI–Q & A
+
 🔹 Q1: What makes an Agent “intelligent” in Agentic AI?
 An agent is intelligent because it understands instructions, interprets context, and produces relevant responses. Unlike simple scripts, it behaves like a specialized virtual expert capable of reasoning within its domain.
 
@@ -53,4 +51,5 @@ Runner: Executes agent synchronously and returns output
 
 Thank you for visiting this project.
 — Umema Sultan
+
 
