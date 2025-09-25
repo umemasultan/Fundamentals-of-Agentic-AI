@@ -8,9 +8,10 @@ Frontend Developer | AI Enthusiast | Learner of Agentic AI
 ---
 ## 🧩 Agent Workflow
 
-❓ Agentic AI–Q & A
+❓ Agentic AI– Q & A
 
-🔹 Q1: What makes an Agent “intelligent” in Agentic AI?
+🔹 Q1: What makes an Agent “intelligent” in Agentic AI? 
+
 An agent is intelligent because it understands instructions, interprets context, and produces relevant responses. Unlike simple scripts, it behaves like a specialized virtual expert capable of reasoning within its domain.
 
 🔹 Q2: Why do we separate Agent and Runner?
@@ -50,6 +51,7 @@ Runner: Executes agent synchronously and returns output
 
 Thank you for visiting this project.
 — Umema Sultan
+
 
 
 
