@@ -10,16 +10,8 @@ Frontend Developer | AI Enthusiast | Learner of Agentic AI
 ---
 
 ## 🧩 Agent Workflow
+![Agent Workflow](workflow.png)
 
-```mermaid
-flowchart TD
-    A[User Input] --> B[Agent: Frontend Expert]
-    B --> C[Runner]
-    C --> D[OpenAIChatCompletionsModel]
-    D --> E[AsyncOpenAI Client]
-    E --> F[Gemini API]
-    F --> G[Response Returned]
-    G --> H[Final Output Printed]
 ❓ Agentic AI – Professional Q&A
 🔹 Q1: What makes an Agent “intelligent” in Agentic AI?
 An agent is intelligent because it understands instructions, interprets context, and produces relevant responses. Unlike simple scripts, it behaves like a specialized virtual expert capable of reasoning within its domain.
@@ -61,3 +53,4 @@ Runner: Executes agent synchronously and returns output
 
 Thank you for visiting this project.
 — Umema Sultan
+
